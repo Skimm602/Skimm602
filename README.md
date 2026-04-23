@@ -1,4 +1,4 @@
-### hi, i'm Skimm 👋
+### hi, i'm John but you can call me skimm 👋
 **`@Skimm602 — full-stack web dev from Ormoc 🇵🇭`**
 
 ---
