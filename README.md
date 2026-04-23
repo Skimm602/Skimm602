@@ -1,5 +1,5 @@
 ### hi, i'm Skimm 👋
-**`@Skimm602 — full-stack web dev from Cebu 🇵🇭`**
+**`@Skimm602 — full-stack web dev from Ormoc 🇵🇭`**
 
 ---
 
@@ -7,9 +7,11 @@
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285f4?style=for-the-badge&logo=google&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel_CRM-FF6B35?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -17,7 +19,7 @@
 - 🌐 i build websites for **fun** — fullstack is my thing
 - 📖 always learning **new programming languages**
 - 🧱 big fan of **legos** — same energy as coding, just physical
-- 🇵🇭 based in **Cebu, Philippines**
+- 🇵🇭 based in **Ormoc, Leyte**
 
 ---
 
